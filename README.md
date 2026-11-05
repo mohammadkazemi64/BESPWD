@@ -1,0 +1,1 @@
+This is the R code for the Bayesian estimation of the scale parameter of the Weibull distribution. The proposed method is presented in my preprint entitled *“Bayesian Estimation for the Scale Parameter of the Weibull Distribution,”* which is currently under review for publication in the *Journal of Statistical Sciences*.
